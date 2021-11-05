@@ -7,5 +7,5 @@ export const Test = () => {
     console.log("cane", state);
     console.log(2);
   }, [state]);
-  return <div>asds</div>;
+  return <div>asdsasdas2</div>;
 };
